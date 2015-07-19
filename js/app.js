@@ -3,10 +3,15 @@ var app = angular.module('myApp', ['itemService']);
 
 app.controller('Controller', ['$scope', '$http', 'itemService', function($scope, $http, itemService) {
 
+    var items = {};
+    
 	function init(){
         var svc = itemService;
         svc.getItems().then(function(data, s){
             $scope.data = data;
+            items = angular.copy($scope.data);
+            console.log(items);
+            return items
         }, function(err,s){
             console.log("fuck this shit")
         });
@@ -48,6 +53,11 @@ app.controller('Controller', ['$scope', '$http', 'itemService', function($scope,
 			var bmr = 66 + convertedWeight + convertedHeight - convertedAge
 			finalBmr = bmr * activityLevel
 			$scope.calorieCount = Math.round(finalBmr)
+			getOptions();
+	};
+
+	function getOptions () {
+		
 	};
 
 
