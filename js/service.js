@@ -9,7 +9,8 @@ app.service("itemService", function($http, $q){
         	var returnArray = {0: [], 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [], 10: [], 11: [], 12: [], 13: [], 14: [], 15: [], 16: [], 17: [], 18: [], 19: [], 20: []};
         	var breaker = 0
 
-        	for (var i = 0; i < 1000; i++) {
+        	for (var i = 0; i < 10000; i++) {
+        		var newCalories = Math.round(passedCalories/3);
 	        	var random = Math.round(Math.floor(Math.random() * (69 - 0 + 1)));
 	        	var random2 = Math.round(Math.floor(Math.random() * (132 - 119 + 1)) + 119);
 	        	var random3 = Math.round(Math.floor(Math.random() * (220 - 132 + 1)) + 132);
@@ -25,7 +26,7 @@ app.service("itemService", function($http, $q){
 			    
 			    var totalCals = mainsCalories + sidesCalories + drinksCalories;
 			    
-			    if (totalCals <= passedCalories) {
+			    if (totalCals <= newCalories) {
 			        returnArray[breaker].push(mainsEntry);
 			        returnArray[breaker].push(sidesEntry);
 			        returnArray[breaker].push(drinksEntry);
