@@ -1,0 +1,728 @@
+{
+  "collection1": [
+    {
+      "item": "Cherry Limeade Sparkler",
+      "calories": "180"
+    },
+    {
+      "item": "Cherry Limeade Sparkler",
+      "calories": "270"
+    },
+    {
+      "item": "Classic Limeade Sparkler",
+      "calories": "230"
+    },
+    {
+      "item": "Classic Limeade Sparkler 16 oz",
+      "calories": "150"
+    },
+    {
+      "item": "Mtn Dew® Baja Blast Freeze",
+      "calories": "250"
+    },
+    {
+      "item": "Mtn Dew® Baja Blast Freeze 16 oz",
+      "calories": "200"
+    },
+    {
+      "item": "Orange Juice",
+      "calories": "140"
+    },
+    {
+      "item": "Pink Lemonade Freeze",
+      "calories": "270"
+    },
+    {
+      "item": "Pink Lemonade Freeze 16 oz",
+      "calories": "220"
+    },
+    {
+      "item": "Piña Colada Freeze",
+      "calories": "240"
+    },
+    {
+      "item": "Piña Colada Freeze 16oz",
+      "calories": "190"
+    },
+    {
+      "item": "Diet Pepsi 16 oz",
+      "calories": "0"
+    },
+    {
+      "item": "Diet Pepsi 20 oz",
+      "calories": "0"
+    },
+    {
+      "item": "Diet Pepsi 30 oz",
+      "calories": "0"
+    },
+    {
+      "item": "Diet Pepsi 40 oz",
+      "calories": "0"
+    },
+    {
+      "item": "Dr Pepper 16 oz",
+      "calories": "200"
+    },
+    {
+      "item": "Dr Pepper 20 oz",
+      "calories": "250"
+    },
+    {
+      "item": "Dr Pepper 30 oz",
+      "calories": "380"
+    },
+    {
+      "item": "Dr Pepper 40 oz",
+      "calories": "500"
+    },
+    {
+      "item": "Lipton Raspberry Iced Tea 16 oz",
+      "calories": "160"
+    },
+    {
+      "item": "Lipton Raspberry Iced Tea 20 oz",
+      "calories": "200"
+    },
+    {
+      "item": "Lipton Raspberry Iced Tea 30 oz",
+      "calories": "300"
+    },
+    {
+      "item": "Lipton Raspberry Iced Tea 40 oz",
+      "calories": "400"
+    },
+    {
+      "item": "MTN DEW A.M. 16 oz",
+      "calories": "160"
+    },
+    {
+      "item": "MTN DEW A.M. 20 oz",
+      "calories": "180"
+    },
+    {
+      "item": "MUG Root Beer 16 oz",
+      "calories": "200"
+    },
+    {
+      "item": "MUG Root Beer 20 oz",
+      "calories": "250"
+    },
+    {
+      "item": "MUG Root Beer 30 oz",
+      "calories": "380"
+    },
+    {
+      "item": "MUG Root Beer 40 oz",
+      "calories": "500"
+    },
+    {
+      "item": "Mountain Dew 16 oz",
+      "calories": "220"
+    },
+    {
+      "item": "Mountain Dew 20 oz",
+      "calories": "280"
+    },
+    {
+      "item": "Mountain Dew 30 oz",
+      "calories": "410"
+    },
+    {
+      "item": "Mountain Dew 40 oz",
+      "calories": "550"
+    },
+    {
+      "item": "Mountain Dew Baja Blast 16 oz",
+      "calories": "220"
+    },
+    {
+      "item": "Mountain Dew Baja Blast 20 oz",
+      "calories": "280"
+    },
+    {
+      "item": "Mountain Dew Baja Blast 30 oz",
+      "calories": "410"
+    },
+    {
+      "item": "Mountain Dew Baja Blast 40 oz",
+      "calories": "550"
+    },
+    {
+      "item": "Pepsi 16 oz",
+      "calories": "200"
+    },
+    {
+      "item": "Pepsi 20 oz",
+      "calories": "250"
+    },
+    {
+      "item": "Pepsi 30 oz",
+      "calories": "380"
+    },
+    {
+      "item": "Pepsi 40 oz",
+      "calories": "500"
+    },
+    {
+      "item": "Sierra Mist 16 oz",
+      "calories": "200"
+    },
+    {
+      "item": "Sierra Mist 20 oz",
+      "calories": "250"
+    },
+    {
+      "item": "Sierra Mist 30 oz",
+      "calories": "380"
+    },
+    {
+      "item": "Sierra Mist 40 oz",
+      "calories": "500"
+    },
+    {
+      "item": "Tropicana Fruit Punch 16 oz",
+      "calories": "220"
+    },
+    {
+      "item": "Tropicana Fruit Punch 20 oz",
+      "calories": "280"
+    },
+    {
+      "item": "Tropicana Fruit Punch 30 oz",
+      "calories": "410"
+    },
+    {
+      "item": "Tropicana Fruit Punch 40 oz",
+      "calories": "550"
+    },
+    {
+      "item": "Tropicana Pink Lemonade 16 oz",
+      "calories": "200"
+    },
+    {
+      "item": "Tropicana Pink Lemonade 20 oz",
+      "calories": "250"
+    },
+    {
+      "item": "Tropicana Pink Lemonade 30 oz",
+      "calories": "380"
+    },
+    {
+      "item": "Tropicana Pink Lemonade 40 oz",
+      "calories": "500"
+    },
+    {
+      "item": "A.M. Crunchwrap™ Bacon",
+      "calories": "660"
+    },
+    {
+      "item": "A.M. Crunchwrap™ Sausage",
+      "calories": "700"
+    },
+    {
+      "item": "Bacon & Egg Burrito",
+      "calories": "440"
+    },
+    {
+      "item": "Bacon A.M. Griller",
+      "calories": "240"
+    },
+    {
+      "item": "Cinnabon Delights – 4 Pack",
+      "calories": "260"
+    },
+    {
+      "item": "Eggs",
+      "calories": "60"
+    },
+    {
+      "item": "Hash Brown",
+      "calories": "160"
+    },
+    {
+      "item": "Orange Juice",
+      "calories": "140"
+    },
+    {
+      "item": "Sausage & Egg Burrito",
+      "calories": "430"
+    },
+    {
+      "item": "Sausage A.M. Griller",
+      "calories": "230"
+    },
+    {
+      "item": "Steak & Egg Burrito",
+      "calories": "380"
+    },
+    {
+      "item": "MTN DEW A.M. 16 oz",
+      "calories": "160"
+    },
+    {
+      "item": "MTN DEW A.M. 20 oz",
+      "calories": "180"
+    },
+    {
+      "item": "7-Layer Burrito",
+      "calories": "440"
+    },
+    {
+      "item": "Bacon & Egg Burrito",
+      "calories": "440"
+    },
+    {
+      "item": "Bean Burrito",
+      "calories": "380"
+    },
+    {
+      "item": "Beefy 5-Layer Burrito",
+      "calories": "520"
+    },
+    {
+      "item": "Black Bean Burrito",
+      "calories": "400"
+    },
+    {
+      "item": "Burrito Supreme® – Chicken",
+      "calories": "390"
+    },
+    {
+      "item": "Burrito Supreme® – Steak",
+      "calories": "400"
+    },
+    {
+      "item": "Burrito Supreme® – Beef",
+      "calories": "420"
+    },
+    {
+      "item": "Cantina Burrito – Chicken",
+      "calories": "740"
+    },
+    {
+      "item": "Cantina Burrito – Steak",
+      "calories": "760"
+    },
+    {
+      "item": "Cantina Burrito – Veggie",
+      "calories": "720"
+    },
+    {
+      "item": "Cheesy Potato Burrito",
+      "calories": "520"
+    },
+    {
+      "item": "Chicken Burrito",
+      "calories": "410"
+    },
+    {
+      "item": "Chili Cheese Burrito",
+      "calories": "370"
+    },
+    {
+      "item": "Combo Burrito",
+      "calories": "460"
+    },
+    {
+      "item": "Sausage & Egg Burrito",
+      "calories": "430"
+    },
+    {
+      "item": "Smothered Burrito – Beef",
+      "calories": "710"
+    },
+    {
+      "item": "Smothered Burrito – Shredded Chicken",
+      "calories": "650"
+    },
+    {
+      "item": "Smothered Burrito – Steak",
+      "calories": "670"
+    },
+    {
+      "item": "Steak & Egg Burrito",
+      "calories": "380"
+    },
+    {
+      "item": "Volcano Burrito",
+      "calories": "780"
+    },
+    {
+      "item": "XXL Grilled Stuft Burrito – Beef",
+      "calories": "880"
+    },
+    {
+      "item": "XXL Grilled Stuft Burrito – Chicken",
+      "calories": "830"
+    },
+    {
+      "item": "XXL Grilled Stuft Burrito – Steak",
+      "calories": "840"
+    },
+    {
+      "item": "Cantina Bowl – Chicken",
+      "calories": "530"
+    },
+    {
+      "item": "Cantina Bowl – Steak",
+      "calories": "550"
+    },
+    {
+      "item": "Cantina Bowl – Veggie",
+      "calories": "510"
+    },
+    {
+      "item": "Cantina Burrito – Chicken",
+      "calories": "740"
+    },
+    {
+      "item": "Cantina Burrito – Steak",
+      "calories": "760"
+    },
+    {
+      "item": "Cantina Burrito – Veggie",
+      "calories": "720"
+    },
+    {
+      "item": "Cantina Double Steak Quesadilla",
+      "calories": "960"
+    },
+    {
+      "item": "Chalupa Supreme® – Chicken",
+      "calories": "340"
+    },
+    {
+      "item": "Chalupa Supreme® – Steak",
+      "calories": "350"
+    },
+    {
+      "item": "Chalupa Supreme® – Beef",
+      "calories": "370"
+    },
+    {
+      "item": "Fresco Burrito Supreme® – Chicken",
+      "calories": "340"
+    },
+    {
+      "item": "Fresco Burrito Supreme® – Steak",
+      "calories": "350"
+    },
+    {
+      "item": "Fresco Chicken Soft Taco",
+      "calories": "140"
+    },
+    {
+      "item": "Fresco Crunchy Taco",
+      "calories": "150"
+    },
+    {
+      "item": "Fresco Grilled Steak Soft Taco",
+      "calories": "150"
+    },
+    {
+      "item": "Fresco Soft Taco",
+      "calories": "160"
+    },
+    {
+      "item": "Cheesy Gordita Crunch",
+      "calories": "500"
+    },
+    {
+      "item": "Gordita Supreme® – Chicken",
+      "calories": "270"
+    },
+    {
+      "item": "Gordita Supreme® – Steak",
+      "calories": "280"
+    },
+    {
+      "item": "Gordita Supreme® – Beef",
+      "calories": "300"
+    },
+    {
+      "item": "Cheesy Nachos",
+      "calories": "290"
+    },
+    {
+      "item": "Nachos",
+      "calories": "320"
+    },
+    {
+      "item": "Nachos BellGrande®",
+      "calories": "780"
+    },
+    {
+      "item": "Nachos Supreme",
+      "calories": "460"
+    },
+    {
+      "item": "Volcano Nachos",
+      "calories": "990"
+    },
+    {
+      "item": "A.M. Crunchwrap™ Bacon",
+      "calories": "660"
+    },
+    {
+      "item": "A.M. Crunchwrap™ Sausage",
+      "calories": "700"
+    },
+    {
+      "item": "Bacon A.M. Griller",
+      "calories": "240"
+    },
+    {
+      "item": "Beefy Nacho Griller",
+      "calories": "420"
+    },
+    {
+      "item": "Cantina Bowl – Chicken",
+      "calories": "530"
+    },
+    {
+      "item": "Cantina Bowl – Steak",
+      "calories": "550"
+    },
+    {
+      "item": "Cantina Bowl – Veggie",
+      "calories": "510"
+    },
+    {
+      "item": "Cantina Double Steak Quesadilla",
+      "calories": "960"
+    },
+    {
+      "item": "Cheese Quesadilla",
+      "calories": "470"
+    },
+    {
+      "item": "Cheese Roll-Up",
+      "calories": "180"
+    },
+    {
+      "item": "Chicken Quesadilla",
+      "calories": "510"
+    },
+    {
+      "item": "Chili Cheese Burrito",
+      "calories": "370"
+    },
+    {
+      "item": "Crunchwrap Supreme®",
+      "calories": "530"
+    },
+    {
+      "item": "Express Taco Salad w/ Chips",
+      "calories": "580"
+    },
+    {
+      "item": "Loaded Potato Griller",
+      "calories": "470"
+    },
+    {
+      "item": "MexiMelt®",
+      "calories": "260"
+    },
+    {
+      "item": "Mexican Pizza",
+      "calories": "550"
+    },
+    {
+      "item": "Sausage A.M. Griller",
+      "calories": "230"
+    },
+    {
+      "item": "Smothered Burrito – Beef",
+      "calories": "710"
+    },
+    {
+      "item": "Smothered Burrito – Shredded Chicken",
+      "calories": "650"
+    },
+    {
+      "item": "Smothered Burrito – Steak",
+      "calories": "670"
+    },
+    {
+      "item": "Spicy Buffalo Chicken Griller",
+      "calories": "350"
+    },
+    {
+      "item": "Steak Quesadilla",
+      "calories": "520"
+    },
+    {
+      "item": "Tostada",
+      "calories": "270"
+    },
+    {
+      "item": "Express Taco Salad w/ Chips",
+      "calories": "580"
+    },
+    {
+      "item": "Fiesta Taco Salad-Beef",
+      "calories": "780"
+    },
+    {
+      "item": "Fiesta Taco Salad-Chicken",
+      "calories": "730"
+    },
+    {
+      "item": "Fiesta Taco Salad-Steak",
+      "calories": "750"
+    },
+    {
+      "item": "Chicken Soft Taco",
+      "calories": "160"
+    },
+    {
+      "item": "Cool Ranch® Doritos® Locos Taco",
+      "calories": "160"
+    },
+    {
+      "item": "Cool Ranch® Doritos® Locos Taco Supreme",
+      "calories": "200"
+    },
+    {
+      "item": "Crispy Potato Soft Taco",
+      "calories": "250"
+    },
+    {
+      "item": "Crunchy Taco",
+      "calories": "170"
+    },
+    {
+      "item": "Crunchy Taco Supreme®",
+      "calories": "200"
+    },
+    {
+      "item": "DOUBLE DECKER® Taco Supreme®",
+      "calories": "350"
+    },
+    {
+      "item": "Double Decker® Taco",
+      "calories": "320"
+    },
+    {
+      "item": "Fiery Doritos® Locos Taco",
+      "calories": "170"
+    },
+    {
+      "item": "Fiery Doritos® Locos Taco Supreme",
+      "calories": "200"
+    },
+    {
+      "item": "Fresco Chicken Soft Taco",
+      "calories": "140"
+    },
+    {
+      "item": "Fresco Crunchy Taco",
+      "calories": "150"
+    },
+    {
+      "item": "Grilled Steak Soft Taco",
+      "calories": "200"
+    },
+    {
+      "item": "Nacho Cheese Doritos® Locos Taco",
+      "calories": "170"
+    },
+    {
+      "item": "Nacho Cheese Doritos® Locos Taco Supreme",
+      "calories": "200"
+    },
+    {
+      "item": "Soft Taco Supreme® – Beef",
+      "calories": "220"
+    },
+    {
+      "item": "Soft Taco-Beef",
+      "calories": "190"
+    },
+    {
+      "item": "Bean Burrito",
+      "calories": "380"
+    },
+    {
+      "item": "Beefy 5-Layer Burrito",
+      "calories": "520"
+    },
+    {
+      "item": "Caramel Apple Empanada",
+      "calories": "310"
+    },
+    {
+      "item": "Cheese Roll-Up",
+      "calories": "180"
+    },
+    {
+      "item": "Cheesy Nachos",
+      "calories": "290"
+    },
+    {
+      "item": "Cinnamon Twists",
+      "calories": "170"
+    },
+    {
+      "item": "Crispy Potato Soft Taco",
+      "calories": "250"
+    },
+    {
+      "item": "Crunchy Taco",
+      "calories": "170"
+    },
+    {
+      "item": "Soft Taco-Beef",
+      "calories": "190"
+    },
+    {
+      "item": "Black Beans",
+      "calories": "80"
+    },
+    {
+      "item": "Black Beans and Rice",
+      "calories": "180"
+    },
+    {
+      "item": "Brownie Sandwich",
+      "calories": "400"
+    },
+    {
+      "item": "Caramel Apple Empanada",
+      "calories": "310"
+    },
+    {
+      "item": "Cheesy Fiesta Potatoes",
+      "calories": "280"
+    },
+    {
+      "item": "Chips and Corn Salsa",
+      "calories": "280"
+    },
+    {
+      "item": "Chips and Guacamole",
+      "calories": "320"
+    },
+    {
+      "item": "Chips and Pico De Gallo",
+      "calories": "230"
+    },
+    {
+      "item": "Churro",
+      "calories": "190"
+    },
+    {
+      "item": "Cinnamon Twists",
+      "calories": "170"
+    },
+    {
+      "item": "Pintos n Cheese",
+      "calories": "190"
+    },
+    {
+      "item": "Premium Latin Rice",
+      "calories": "100"
+    }
+  ]
+}

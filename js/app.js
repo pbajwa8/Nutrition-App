@@ -1,13 +1,14 @@
 
-var app = angular.module('myApp', ['itemService']);
+var app = angular.module('myApp', ['mcDonalds', 'tacoBell']);
 
-app.controller('Controller', ['$scope', '$http', 'itemService', function($scope, $http, itemService) {
+app.controller('Controller', ['$scope', '$http', 'mcDonalds', 'tacoBell', function($scope, $http, mcDonalds, tacoBell) {
 
 	$scope.weight;
     $scope.height;
     $scope.age;
     $scope.activityLevel;
     $scope.calorieCount;
+    $scope.data = {meals: []};
 
 	var finalBmr;
 
@@ -37,19 +38,36 @@ app.controller('Controller', ['$scope', '$http', 'itemService', function($scope,
 			var bmr = 66 + convertedWeight + convertedHeight - convertedAge;
 			finalBmr = Math.round(bmr * activityLevel);
 			$scope.calorieCount = finalBmr;
-			getItems(finalBmr);
+			getMcDonalds(finalBmr);
 	};
 
 
-	function getItems(inputBMR){
-		var passer = inputBMR
-        var svc = itemService;
+	function getMcDonalds(inputBMR){
+		var passer = inputBMR;
+        var svc = mcDonalds;
 	        svc.getItems(passer).then(function(data, s){
-	            $scope.data = data;
+	            $scope.data.meals[0] = data[0][0];
+	            $scope.data.meals[1] = data[0][1];
+	            $scope.data.meals[2] = data[0][2];
+	            getTacoBell(passer);
 	        }, function(err,s){
 	            console.log("fuck this shit")
 	        });
     }
+
+    function getTacoBell(inputBMR){
+		var passer2 = inputBMR
+        var svc = tacoBell;
+	        svc.getItems(passer2).then(function(data, s){
+	            $scope.data.meals[3] = data[0][0];
+	            $scope.data.meals[4] = data[0][1];
+	            $scope.data.meals[5] = data[0][2];
+	        }, function(err,s){
+	            console.log("fuck this shit")
+	        });
+    }
+
+
 
 
 }]);

@@ -1,6 +1,6 @@
-var app = angular.module('itemService', []);
+var app = angular.module('mcDonalds', []);
 
-app.service("itemService", function($http, $q){
+app.service("mcDonalds", function($http, $q){
     this.getItems = function(inputBMR){
         var deferred = $q.defer();
         var specCalories = inputBMR;
